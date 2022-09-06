@@ -1,0 +1,3 @@
+
+class SuiteException(Exception):
+    pass
